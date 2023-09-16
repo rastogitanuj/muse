@@ -23,4 +23,4 @@ note: you can replace python with the python installton you want to use
 #-----#
 
 You're done.
-Open terminal and try: muse "<your command>"
+Open terminal and try: muse "<your \command>"
