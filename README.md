@@ -19,3 +19,8 @@ alias muse="python -W ignore <location-to-muse-dir>/muse.py"
 alias musex="python -W ignore <location-to-muse-dir>/muse.py -model gpt-4-0613" 
 
 note: you can replace python with the python installton you want to use
+
+#-----#
+
+You're done.
+Open terminal and try: muse "<your command>"
