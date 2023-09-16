@@ -9,7 +9,7 @@ You can follow the steps here: https://platform.openai.com/docs/api-reference/in
 Generate openAI keys here: https://platform.openai.com/account/api-keys
 
 Add it to .env file inside your muse directory (parallel to muse.py file) using the following line:
-OPENAI_API_KEY="<your openAI key>"
+OPENAI_API_KEY="add your openAI key here"
 
 note: Do not share your OpenAI API key with anyone! It should remain a secret.
  
@@ -23,4 +23,4 @@ note: you can replace python with the python installton you want to use
 #-----#
 
 You're done.
-Open terminal and try: muse "<your command>"
+Open terminal and try: muse "Hello GPT"
