@@ -16,7 +16,7 @@ OPENAI_API_KEY="add your openAI key here"
 note: Do not share your OpenAI API key with anyone! It should remain a secret.
  
 
-3. Add alias in your shell startup script:
+3. Add alias in your shell startup script (.bashrc/.zshrc or the equivalent shell script for your system):
 
 alias muse="python -W ignore <location-to-muse-dir>/muse.py"
 alias musex="python -W ignore <location-to-muse-dir>/muse.py -model gpt-4-0613" 
